@@ -1,0 +1,13 @@
+body {
+	font-family: Verdana;
+	font-size: 15px;
+}
+
+table {
+	width: 55%;
+	
+	box-shadow: 0 2px 5px #ddd;
+	-moz-box-shadow: 0 2px 5px #ddd;
+	-webkit-box-shadow: 0 2px 5px #ddd;
+}
+

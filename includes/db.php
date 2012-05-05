@@ -1,12 +1,5 @@
 <?php
 
-/************************************\
-|  File only to be used for UnifyMC  |
-|    ALL rights are reserved! This   |
-|   software will be protected with  |
-|     the full extent of the law.    |
-\************************************/
-
 	class db
 	{
 		private $host;
